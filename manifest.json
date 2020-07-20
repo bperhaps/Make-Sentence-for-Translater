@@ -1,6 +1,6 @@
 {
-	"name": "Make Sentence for Translater",
-    "version": "1.0",
+	"name": "Make Sentence for Translator",
+    "version": "1.0.1",
     "description": "This extension helps to facilitate translation by attaching separate sentences together.",
 	"homepage_url" : "https://bperhaps.tistory.com/",
     "manifest_version": 2,
